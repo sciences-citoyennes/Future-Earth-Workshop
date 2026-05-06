@@ -4,7 +4,7 @@ a workshop for Future Earth 2026 in Lausanne run by Sciences Citoyennes and Scie
 ### WORKSHOP RESOURCES
 #### Presentation Slides: https://canva.link/78u6piohcxliilk
 #### Hedgedoc: https://pad.liiib.re/pa27xhM9QrCHpGPwau5G5g?both#
-#### Binder Link (to run code through browser):
+#### Binder Link (to run code through browser): https://mybinder.org/v2/gh/sciences-citoyennes/Future-Earth-Workshop/HEAD
 
 
 ### Current Challenge:
