@@ -1,14 +1,13 @@
-Follow the Money: How EU Research Agenda Influences the Future of Society
-
+# Follow the Money: How EU Research Agenda Influences the Future of Society
 -- a workshop for Future Earth 2026 in Lausanne run by Sciences Citoyennes and Scientist Rebellion France
 
-WORKSHOP RESOURCES
-Presentation Slides: https://canva.link/78u6piohcxliilk
-Hedgedoc: https://pad.liiib.re/pa27xhM9QrCHpGPwau5G5g?both#
-Binder Link (to run code through browser):
+### WORKSHOP RESOURCES
+#### Presentation Slides: https://canva.link/78u6piohcxliilk
+#### Hedgedoc: https://pad.liiib.re/pa27xhM9QrCHpGPwau5G5g?both#
+#### Binder Link (to run code through browser):
 
 
-Current Challenge:
+### Current Challenge:
 Horizon Europe aims to fund research that tackles climate change, helps achieve the UN's Sustainable Development Goals, 
 and boosts EU competitiveness and growth. Yet a significant portion of its €95.5 billion budget flows to corporations 
 whose business models conflict with these sustainability goals. This contradiction reveals a deeper problem: current funding 
@@ -16,7 +15,7 @@ mechanisms lack meaningful democratic oversight, allowing decisions about our te
 This workshop investigates this accountability gap by analyzing how Horizon Europe funds are allocated, with particular 
 attention to the outsized role of polluting organizations in shaping publicly-funded research directions.
 
-Workshop Objectives:
+### Workshop Objectives:
 • Analyze how public research funds are distributed among different organizations and project themes
 • Investigate potential conflicts between corporate interests and stated EU sustainability goals
 • Examine the lack of democratic input in research funding decision-making process
