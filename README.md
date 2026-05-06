@@ -1,5 +1,5 @@
 # Follow the Money: How EU Research Agenda Influences the Future of Society
--- a workshop for Future Earth 2026 in Lausanne run by Sciences Citoyennes and Scientist Rebellion France
+a workshop for Future Earth 2026 in Lausanne run by Sciences Citoyennes and Scientists Rebellion France
 
 ### WORKSHOP RESOURCES
 #### Presentation Slides: https://canva.link/78u6piohcxliilk
